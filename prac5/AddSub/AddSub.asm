@@ -8,5 +8,6 @@ D=M
 D=D+M
 @R3
 D=D-M
-@RO
+@R0
 M=D
+0;JMP
